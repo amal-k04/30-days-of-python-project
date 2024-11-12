@@ -3,7 +3,7 @@
 ## *Task*: Use Python to perform basic arithmetic operations.
 
 ### *Description*:
-Python allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division using operators. The result can be displayed using the `print()` function.
+Python allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division using operators from the user. The result can be displayed using the `print()` function.
 
 ### *Example*:
 ```python
