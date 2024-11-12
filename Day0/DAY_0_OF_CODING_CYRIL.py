@@ -1,2 +1,6 @@
-var="I LOVE PYTHON"
-print(var)
+#AUTHOR=CYRIL JACOB THOMAS
+#DATE=12-11-2024
+#DESCRIPTION=Print the specified message to the screen.(I LOVE PYHTON)
+
+STRING="I LOVE PYTHON"
+print(STRING)
