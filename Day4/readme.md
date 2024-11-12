@@ -1,4 +1,4 @@
-## Day 4: IF/ELSE Condition
+## Day 4: Divisiblity test
 
 1. **Task Description**: Write a program that takes an integer as input and returns `True` if the number is even, otherwise returns `False`.
 
