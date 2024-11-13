@@ -1,5 +1,5 @@
 '''
-Author:Amal k philip
+Author:Amal K Philip
 Date:13-11-2024
 Description:Python variables are used to store data values.
 '''
