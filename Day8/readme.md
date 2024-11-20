@@ -1,4 +1,4 @@
-# Day 7: Factorial of a Number.
+# Day 8: Factorial of a Number.
 ## *Objective:*
 Write a Python program to calculate the factorial of a given number.
 
