@@ -1,0 +1,7 @@
+'''
+Author:Pious Jacob
+Date:22-11-2024
+Description:Print the specified message to the screen.
+'''
+str="I love python"
+print(str)
