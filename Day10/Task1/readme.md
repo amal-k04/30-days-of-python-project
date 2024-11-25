@@ -2,7 +2,7 @@
 ## Task:1
 ## Triangle Properties and Area Calculator
 
-This Python script calculates the area of a triangle and determines its type: Isosceles, Equilateral, or Scalene (different sides).
+This Python program calculates the area of a triangle and determines its type: Isosceles, Equilateral, or Scalene (different sides).
 
 ```python
 
