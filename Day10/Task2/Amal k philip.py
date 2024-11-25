@@ -6,9 +6,9 @@ Description:Python program checks whether a given number is a Palindrome and det
 
 num=int(input("Enter a number:"))
 
-temp=num
+temp=num#num is duplicated into temp
 reverse=0
-
+#checking palindrome..
 while temp>0:
     digit=temp%10
     reverse=reverse+digit
@@ -19,6 +19,8 @@ if num==reverse:
     print(f"The number {num} is a Palindrome.")
 else:
     print(f"The number {num} is not a Palindrome.")
+
+#checking prime..
 prime=True
 for i in range(2,num):
     if num%i==0:
