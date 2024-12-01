@@ -1,6 +1,6 @@
 # Day15
 ## Task:1
-## Description:Python program to construct the following pattern, using a nested loop number.
+## Description:*Python program to construct the following pattern, using a nested loop number.*
 ```python
 Input:
 enter the rows: 9
