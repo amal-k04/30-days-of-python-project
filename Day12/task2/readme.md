@@ -12,7 +12,7 @@ This Python program identifies the longest word in a given list of words. It als
 Example Input and Output
 ```PYTHON
 Input:
-words = ["apple", "banana", "cherry", "watermelon", "grape"]
+words = apple banana cherry watermelon grape
 
 Output:
 The longest word is: watermelon
